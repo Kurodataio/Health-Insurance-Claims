@@ -17,7 +17,7 @@ Health Insurance Underwriting with Simulated Health Insurance Dataset
 - [Credits](#credits)  
 - [License](#license)  
 
----
+---s
 
 ## Overview
 
@@ -29,9 +29,7 @@ Health Insurance Underwriting with Simulated Health Insurance Dataset
 
 ## Dataset
 
-Provide details about the dataset used:
-
-- Source of the dataset (link if available)  
+- The dataset is Medical Cost Personal Datasets from Kaggle
 - Size of the dataset (# of rows and columns)  
 - Key features/columns used  
 - Any preprocessing or cleaning steps  
@@ -63,13 +61,10 @@ Step-by-step instructions to set up the project locally:
 ```bash
 
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone git clone https://github.com/Kurodataio/Health-Insurance-Claims.git
 
 # Navigate to the project folder
-cd YOUR_REPO
-
-# Install dependencies
-pip install -r requirements.txt
+cd Health-Insurance-Claims
 
 # Launch Jupyter Notebook
 jupyter notebook
@@ -85,10 +80,6 @@ Instructions for using the project:
 2. Run each cell sequentially to reproduce the analysis  
 3. Visualizations and results will be generated automatically  
 
-Include screenshots of your visualizations if available:  
-
-![Visualization Example](assets/images/screenshot.png)  
-
 ---
 
 ## Analysis & Visualizations 
@@ -97,6 +88,7 @@ Summarize your findings, insights, and visualizations:
 
 - Describe the key trends and patterns you observed  
 - Show charts, graphs, and tables  ![Graph](img1.png)
+![Visualization Example](assets/images/screenshot.png)  
 - Include important observations or correlations found in the data  
 
 ---
@@ -112,16 +104,13 @@ Summarize your findings, insights, and visualizations:
 
 ## Credits
 
-- **Collaborators:** Name – [GitHub Profile](https://github.com/USERNAME)  
-- **Dataset Source:** [Link](https://link-to-dataset.com)  
-- **Tutorials / References:** [Link](https://link.com)  
+- **Dataset Source:** [Kaggle → Datasets](https://www.kaggle.com/datasets/mirichoi0218/insurance)  
+
 
 ---
 
 ## License
 
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) – feel free to use and modify it.  
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
 
 ---
-
-<p align="center"><strong>Thanks for visiting! 🚀</strong></p>

@@ -112,7 +112,8 @@ Summarize your findings, insights, and visualizations:
 ## Credits
 
 - **Dataset Source:** [Kaggle → Datasets](https://www.kaggle.com/datasets/mirichoi0218/insurance)  
-
+- **Google Gemini** [Link](https://gemini.google.com/app)  
+- **CoPilot** [Link](https://copilot.microsoft.com/)  
 
 ---
 

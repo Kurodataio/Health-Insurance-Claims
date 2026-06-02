@@ -87,8 +87,15 @@ Instructions for using the project:
 Summarize your findings, insights, and visualizations:
 
 - Describe the key trends and patterns you observed  
-- Show charts, graphs, and tables  ![Graph](img1.png)
-![Visualization Example](assets/images/screenshot.png)  
+- Show charts, graphs, and tables 
+![Age_&_BMI_vs_Claims_Cost](images/Age_&_BMI_vs_Claims_Cost.png) 
+![Categorical_Features_Analysis](images/Categorical_Features_Analysis.png)
+![Claims_Cost_Distribution_by_Smoking_Status.png](images/Claims_Cost_Distribution_by_Smoking_Status.png) 
+![Correlation_Heatmap](images/Correlation_Heatmap.png) 
+![Distribution_of_Claims_Cost](images/Distribution_of_Claims_Cost.png) 
+![Loss_Ratio_Distribution](images/Loss_Ratio_Distribution.png) 
+<!-- ![title](images/image.png)  -->
+
 - Include important observations or correlations found in the data  
 
 ---

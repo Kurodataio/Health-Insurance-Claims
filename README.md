@@ -1,7 +1,7 @@
-# Health-Insurance-Claims
+# Health Insurance Claims
 Health Insurance Underwriting with Simulated Health Insurance Dataset
 
-[Notebook Link](https://github.com/Sodiq-Shodimu/nexygen-project/blob/main/preprocessed.ipynb)  
+[Notebook Link](https://github.com/Sodiq-Shodimu/nexygen-project/blob/main/health-insurance-claims.ipynb)  
 
 ---
 
@@ -76,8 +76,8 @@ jupyter notebook
 
 Instructions for using the project:
 
-1. Open the main notebook (`analysis.ipynb`)  
-2. Run each cell sequentially to reproduce the analysis  
+1. Open the main notebook (`health-insurance-claims.ipynb`)  
+2. Run ALL cells or each cell sequentially to reproduce the analysis  
 3. Visualizations and results will be generated automatically  
 
 ---

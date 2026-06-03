@@ -17,7 +17,7 @@ Health Insurance Underwriting with Simulated Health Insurance Dataset
 - [Credits](#credits)  
 - [License](#license)  
 
----s
+---
 
 ## Overview
 

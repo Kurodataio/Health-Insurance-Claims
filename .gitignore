@@ -1,4 +1,3 @@
 # Ignore Jupyter notebook execution folders
 anaconda_projects/
 .ipynb_checkpoints/
-Health_Insurance_Underwriting _Pricing_Analytics.ipynb

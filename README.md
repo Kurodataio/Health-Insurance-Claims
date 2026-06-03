@@ -21,27 +21,25 @@ Health Insurance Underwriting with Simulated Health Insurance Dataset
 
 ## Overview
 
-- **Motivation:** Why did you choose this dataset or problem?  
-- **Objective:** What question(s) are you trying to answer through this analysis?  
-- **Learning Outcomes:** What did you learn while working on this project?  
+- The dataset was chosen to assess heath insurance uderwriting. 
+-The objecive was to determine segmentation, risk scoring, data insights and  scenario testing
 
 ---
 
 ## Dataset
-
+- Initially we are using synthetic data to build the workflow and then use actual real life data from Kaggle
 - The dataset is Medical Cost Personal Datasets from Kaggle
-- Size of the dataset (# of rows and columns)  
-- Key features/columns used  
-- Any preprocessing or cleaning steps  
+- Size of the dataset 5000 of rows and 7 columns  
+
 
 ---
 
 <h2>Technologies Used</h2>
 
 <ul>
-  <li><strong>Languages & Libraries:</strong> Python, Pandas, NumPy, SQL, Matplotlib, Seaborn</li>
+  <li><strong>Languages & Libraries:</strong> Python, Pandas, NumPy, Matplotlib, Seaborn, sklearn</li>
   <li><strong>Tools:</strong> Jupyter Notebook, VS Code, Git, GitHub</li>
-  <li><strong>Data Visualization:</strong> Power BI / Tableau (if applicable)</li>
+ 
 </ul>
 
 <p>
@@ -83,8 +81,6 @@ Instructions for using the project:
 ---
 
 ## Analysis & Visualizations 
-
-Summarize your findings, insights, and visualizations:
 
 - Describe the key trends and patterns you observed  
 - Show charts, graphs, and tables 

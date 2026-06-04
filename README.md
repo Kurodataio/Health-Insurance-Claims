@@ -85,7 +85,13 @@ Instructions for using the project:
 - Describe the key trends and patterns you observed  
 - Show charts, graphs, and tables 
 ![Age_&_BMI_vs_Claims_Cost](images/Age_&_BMI_vs_Claims_Cost.png) 
-![Categorical_Features_Analysis](images/Categorical_Features_Analysis.png)
+
+![Claims_Cost_by_Smoker_Status](images/Claims_Cost_by_Smoker_Status.png)
+![Claims_Cost_by_Chronic_Conditions](images/Claims_Cost_by_Chronic_Conditions.png) 
+![Claims_Cost_by_Gender](images/Claims_Cost_by_Gender.png) 
+![Claims_Cost_by_Region](images/Claims_Cost_by_Region.png) 
+
+
 ![Claims_Cost_Distribution_by_Smoking_Status.png](images/Claims_Cost_Distribution_by_Smoking_Status.png) 
 ![Correlation_Heatmap](images/Correlation_Heatmap.png) 
 ![Distribution_of_Claims_Cost](images/Distribution_of_Claims_Cost.png) 

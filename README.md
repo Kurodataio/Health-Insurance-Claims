@@ -87,7 +87,8 @@ Instructions for using the project:
 ![Age_&_BMI_vs_Claims_Cost](images/Age_&_BMI_vs_Claims_Cost.png) 
 
 ![Claims_Cost_by_Smoker_Status](images/Claims_Cost_by_Smoker_Status.png)
-![Claims_Cost_by_Chronic_Conditions](images/Claims_Cost_by_Chronic_Conditions.png) 
+<!-- ![Claims_Cost_by_Chronic_Conditions](images/Claims_Cost_by_Chronic_Conditions.png)  -->
+![Claims_Cost_by_Dependents](images/Claims_Cost_by_Dependents.png) 
 ![Claims_Cost_by_Gender](images/Claims_Cost_by_Gender.png) 
 ![Claims_Cost_by_Region](images/Claims_Cost_by_Region.png) 
 
@@ -96,6 +97,8 @@ Instructions for using the project:
 ![Correlation_Heatmap](images/Correlation_Heatmap.png) 
 ![Distribution_of_Claims_Cost](images/Distribution_of_Claims_Cost.png) 
 ![Loss_Ratio_Distribution](images/Loss_Ratio_Distribution.png) 
+![Feature_Importance](images/Feature_Importance.png) 
+<!-- ![title](images/image.png)  -->
 <!-- ![title](images/image.png)  -->
 
 - Include important observations or correlations found in the data  

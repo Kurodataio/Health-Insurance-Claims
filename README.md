@@ -27,10 +27,8 @@ Health Insurance Underwriting with Simulated Health Insurance Dataset
 ---
 
 ## Dataset
-- Initially we are using synthetic data to build the workflow and then use actual real life data from Kaggle
 - The dataset is Medical Cost Personal Datasets from Kaggle
-- Size of the dataset 5000 of rows and 7 columns  
-
+- Size of the dataset is 1338 rows and 7 columns  
 
 ---
 

@@ -46,7 +46,6 @@ Health Insurance Underwriting with Simulated Health Insurance Dataset
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
   <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
 </p>
 
@@ -94,9 +93,21 @@ Instructions for using the project:
 
 - Describe the key trends and patterns you observed  
 - Show charts, graphs, and tables 
+- **Age vs. Claims Cost (Smoker Highlighted)**
+  - 3 clear bands with linear relationship between age and claims cost
+  - Bottom blue non-smokers band has lowest age to claims cost
+  - Middle non-smokers and smokers
+  - Top orange smokers band has the gighest agr to claims cost
+  - The is a clear positive linear relationship between age and claims cost
+  - Smoking increases the cost of caims
 ![Age_&_BMI_vs_Claims_Cost](images/Age_&_BMI_vs_Claims_Cost.png) 
 
+- **BMI vs. Claims Cost**
+  - For non-smokers BMI is minor impact on costs. Most claims costs for non smokers are below $15k
+  - For smokers, there is significant BMI impact beyond BMI of 30
+  - BMI minimal impact on claims costs for non-smokers however for BMI over 30 there is an sudden and increasing impact on costs
 ![Claims_Cost_by_Smoker_Status](images/Claims_Cost_by_Smoker_Status.png)
+
 <!-- ![Claims_Cost_by_Chronic_Conditions](images/Claims_Cost_by_Chronic_Conditions.png)  -->
 ![Claims_Cost_by_Dependents](images/Claims_Cost_by_Dependents.png) 
 ![Claims_Cost_by_Gender](images/Claims_Cost_by_Gender.png) 
@@ -116,11 +127,11 @@ Instructions for using the project:
 ---
 
 ## Conclusion 
-
 - Summarize the outcome of your analysis  
 - What are the main insights or takeaways?  
 - How could this analysis inform decision-making?  
 - Recommendations or next steps for further analysis  
+- **Smoking and BMI combined are associated with the highest claims cost**
 
 ---
 

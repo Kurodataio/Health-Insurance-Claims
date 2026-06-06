@@ -91,8 +91,6 @@ Instructions for using the project:
 
 ## Analysis & Visualizations 
 
-- Describe the key trends and patterns you observed  
-- Show charts, graphs, and tables 
 - **Age vs. Claims Cost (Smoker Highlighted)**
   - 3 clear bands with linear relationship between age and claims cost
   - Bottom blue non-smokers band has lowest age to claims cost
@@ -100,13 +98,13 @@ Instructions for using the project:
   - Top orange smokers band has the gighest agr to claims cost
   - The is a clear positive linear relationship between age and claims cost
   - Smoking increases the cost of caims
-![Age_&_BMI_vs_Claims_Cost](images/Age_&_BMI_vs_Claims_Cost.png) 
-
 - **BMI vs. Claims Cost**
   - For non-smokers BMI is minor impact on costs. Most claims costs for non smokers are below $15k
   - For smokers, there is significant BMI impact beyond BMI of 30
   - BMI minimal impact on claims costs for non-smokers however for BMI over 30 there is an sudden and increasing impact on costs
-- **Claims Cost by Smoker_Status**
+![Age_&_BMI_vs_Claims_Cost](images/Age_&_BMI_vs_Claims_Cost.png) 
+
+- **Claims Cost by Smoker Status**
   - The average claims cost between smokers and non-smokers claims cost is significant
   - Non-smokers have a median cost of $7,500
   - Smokers have a mediam cost of $34,500
@@ -119,21 +117,38 @@ Instructions for using the project:
   - This plot shows high outliers for non-smokers are within the typical claims cost for smokers
 ![Claims_Cost_by_Smoker_Status](images/Claims_Cost_by_Smoker_Status.png)
 
-<!-- ![Claims_Cost_by_Chronic_Conditions](images/Claims_Cost_by_Chronic_Conditions.png)  -->
+- **Claims Cost by Dependents**
+  - The average (median) claims cost for all groups is $8,000 and $11,000
+  - 0 to 2 dependents: The median is around $8,500–$9,500
+  - 3 to 4 dependents: The mdian peaks at $11,000 for 4 dependents
+  - 5 dependents: The median is under $9,000
+  - The group with 0 dependents has outliers with the highest cost of $60,000+
+  - The group with 5 dependents has outliers with the lowest cost at under $20,000
+  - The number of dependents does not dictate high claims cost. In fact it seems the opposite.
 ![Claims_Cost_by_Dependents](images/Claims_Cost_by_Dependents.png) 
+
+- **Claims Cost by Gender**
 ![Claims_Cost_by_Gender](images/Claims_Cost_by_Gender.png) 
+
+- **Claims Cost by Region**
 ![Claims_Cost_by_Region](images/Claims_Cost_by_Region.png) 
 
-
+- **Claims_Cost_Distribution_by_Smoking_Status**
 ![Claims_Cost_Distribution_by_Smoking_Status.png](images/Claims_Cost_Distribution_by_Smoking_Status.png) 
+
+- **Correlation_Heatmap**
 ![Correlation_Heatmap](images/Correlation_Heatmap.png) 
+
+- **Distribution_of_Claims_Cost**
 ![Distribution_of_Claims_Cost](images/Distribution_of_Claims_Cost.png) 
+
+-**Loss_Ratio_Distribution**
 ![Loss_Ratio_Distribution](images/Loss_Ratio_Distribution.png) 
+
+- **Feature_Importance**
 ![Feature_Importance](images/Feature_Importance.png) 
 <!-- ![title](images/image.png)  -->
 <!-- ![title](images/image.png)  -->
-
-- Include important observations or correlations found in the data  
 
 ---
 

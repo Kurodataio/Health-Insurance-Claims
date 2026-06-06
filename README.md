@@ -106,6 +106,17 @@ Instructions for using the project:
   - For non-smokers BMI is minor impact on costs. Most claims costs for non smokers are below $15k
   - For smokers, there is significant BMI impact beyond BMI of 30
   - BMI minimal impact on claims costs for non-smokers however for BMI over 30 there is an sudden and increasing impact on costs
+  - **Claims Cost by Smoker_Status**
+    - The average claims cost between smokers and non-smokers claims cost is significant
+    - Non-smokers have a median cost of $7,500
+    - Smokers have a mediam cost of $34,500
+    - There is no overlap between the smoking and non-smoking groups
+    - The 75th percentile for non-snokers is lower than the 25th percentile for smokers
+    - For non smokers teh claims cost are between $4,000 and $11,500
+    - For smokers teh claims cost are between $21,000 to $41,000
+    - Smokers have a wider range (variance) of claims costs
+    - Non smokers have many outlying claims around $23,000 up to $37,000
+    - This plot shows high outliers for non-smokers are within the typical claims cost for smokers
 ![Claims_Cost_by_Smoker_Status](images/Claims_Cost_by_Smoker_Status.png)
 
 <!-- ![Claims_Cost_by_Chronic_Conditions](images/Claims_Cost_by_Chronic_Conditions.png)  -->
@@ -132,6 +143,7 @@ Instructions for using the project:
 - How could this analysis inform decision-making?  
 - Recommendations or next steps for further analysis  
 - **Smoking and BMI combined are associated with the highest claims cost**
+- **Are smoking and BMI signals for increased billing or actual indicators of assocated illness?**
 
 ---
 

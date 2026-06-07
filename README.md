@@ -128,12 +128,15 @@ Instructions for using the project:
 ![Claims_Cost_by_Dependents](images/Claims_Cost_by_Dependents.png) 
 
 - **Claims Cost by Gender**
-  - Both genders have an average clam cost of $9,300.
+  - Both genders have an average claim cost of $9,300.
   - Gender has no significance to median claim costs
   - Both genders have a long tail of outliers. Beyond $20K for Women and beyond $40k for men
 ![Claims_Cost_by_Gender](images/Claims_Cost_by_Gender.png) 
 
 - **Claims Cost by Region**
+  - Southwest, Southeast, Northwest have a median claims cost around $9k to $9.3k
+  - Northeast has a higher median claims cost around $10k.
+  - Region is a not a significant determinant of claims cost.
 ![Claims_Cost_by_Region](images/Claims_Cost_by_Region.png) 
 
 - **Claims_Cost_Distribution_by_Smoking_Status**

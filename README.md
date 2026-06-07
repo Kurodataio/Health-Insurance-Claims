@@ -128,6 +128,9 @@ Instructions for using the project:
 ![Claims_Cost_by_Dependents](images/Claims_Cost_by_Dependents.png) 
 
 - **Claims Cost by Gender**
+  - Both genders have an average clam cost of $9,300.
+  - Gender has no significance to median claim costs
+  - Both genders have a long tail of outliers. Beyond $20K for Women and beyond $40k for men
 ![Claims_Cost_by_Gender](images/Claims_Cost_by_Gender.png) 
 
 - **Claims Cost by Region**

@@ -152,6 +152,14 @@ Instructions for using the project:
 ![Claims_Cost_Distribution_by_Smoking_Status.png](images/Claims_Cost_Distribution_by_Smoking_Status.png) 
 
 - **Correlation_Heatmap**
+  - The positive correlation between smoker and claims cost is 0.79
+  - The positive correlation between age and claims cost is 0.30 and 0.20 for bmi and claims cost.
+  - The heatmap does not show the interaction effect between BMI and smoking which is associated with higgher costs.
+  - The heatmap clearly shows the following:
+    - Smoker status (highest correlation)
+    - Age (High correlation)
+    - BMI (Moderate correlation)
+
 ![Correlation_Heatmap](images/Correlation_Heatmap.png) 
 
 - **Distribution_of_Claims_Cost**

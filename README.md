@@ -142,7 +142,13 @@ Instructions for using the project:
   - Does this suggest that the Southeast has more smokers and obese clients hence the higher claims costs
 ![Claims_Cost_by_Region](images/Claims_Cost_by_Region.png) 
 
-- **Claims_Cost_Distribution_by_Smoking_Status**
+- **Claims Cost Distribution by Smoking Status**
+  - The non-smokers show right-skewed distribution
+  - The highest frequency (density) of individuals show claims cost between $2,000 and $10,000.
+  - The data shows that most of the minor claims are by non-smokers
+  - The data shows a two peaks for smokers. It is bimodal.
+  - The first peak cluster is between $15,000–$25,000.
+  - The second peak cluster is between $35,000–$50,000.
 ![Claims_Cost_Distribution_by_Smoking_Status.png](images/Claims_Cost_Distribution_by_Smoking_Status.png) 
 
 - **Correlation_Heatmap**

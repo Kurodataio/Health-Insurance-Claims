@@ -159,7 +159,6 @@ Instructions for using the project:
     - Smoker status (highest correlation)
     - Age (High correlation)
     - BMI (Moderate correlation)
-
 ![Correlation_Heatmap](images/Correlation_Heatmap.png) 
 
 - **Distribution_of_Claims_Cost**

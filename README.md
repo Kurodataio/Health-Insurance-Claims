@@ -137,6 +137,9 @@ Instructions for using the project:
   - Southwest, Southeast, Northwest have a median claims cost around $9k to $9.3k
   - Northeast has a higher median claims cost around $10k.
   - Region is a not a significant determinant of claims cost.
+  - The Southeast has the highest range of claims costs. It also has the highest outlier costs
+  - The outliers can be associated with risk factors such as smoking and high BMI
+  - Does this suggest that the Southeast has more smokers and obese clients hence the higher claims costs
 ![Claims_Cost_by_Region](images/Claims_Cost_by_Region.png) 
 
 - **Claims_Cost_Distribution_by_Smoking_Status**

@@ -110,8 +110,8 @@ Instructions for using the project:
   - Smokers have a mediam cost of $34,500
   - There is no overlap between the smoking and non-smoking groups
   - The 75th percentile for non-snokers is lower than the 25th percentile for smokers
-  - For non smokers teh claims cost are between $4,000 and $11,500
-  - For smokers teh claims cost are between $21,000 to $41,000
+  - For non smokers the claims cost are between $4,000 and $11,500
+  - For smokers the claims cost are between $21,000 to $41,000
   - Smokers have a wider range (variance) of claims costs
   - Non smokers have many outlying claims around $23,000 up to $37,000
   - This plot shows high outliers for non-smokers are within the typical claims cost for smokers
@@ -130,7 +130,7 @@ Instructions for using the project:
 - **Claims Cost by Gender**
   - Both genders have an average claim cost of $9,300.
   - Gender has no significance to median claim costs
-  - Both genders have a long tail of outliers. Beyond $20K for Women and beyond $40k for men
+  - Both genders have a long tail of outliers. Beyond $30K for Women and beyond $40k for men
 ![Claims_Cost_by_Gender](images/Claims_Cost_by_Gender.png) 
 
 - **Claims Cost by Region**
@@ -146,7 +146,7 @@ Instructions for using the project:
   - The non-smokers show right-skewed distribution
   - The highest frequency (density) of individuals show claims cost between $2,000 and $10,000.
   - The data shows that most of the minor claims are by non-smokers
-  - The data shows a two peaks for smokers. It is bimodal.
+  - The data shows two peaks for smokers. It is bimodal.
   - The first peak cluster is between $15,000–$25,000.
   - The second peak cluster is between $35,000–$50,000.
 ![Claims_Cost_Distribution_by_Smoking_Status.png](images/Claims_Cost_Distribution_by_Smoking_Status.png) 
@@ -156,7 +156,7 @@ Instructions for using the project:
   - The positive correlation between age and claims cost is 0.30 and 0.20 for bmi and claims cost.
   - The heatmap does not show the interaction effect between BMI and smoking which is associated with higgher costs.
   - The heatmap clearly shows the following:
-    - Smoker status (highest correlation)
+    - Smoker status (Highest correlation)
     - Age (High correlation)
     - BMI (Moderate correlation)
 ![Correlation_Heatmap](images/Correlation_Heatmap.png) 

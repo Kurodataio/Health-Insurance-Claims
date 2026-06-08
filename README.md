@@ -151,9 +151,9 @@ Instructions for using the project:
   - The first peak cluster is between $15,000–$25,000.
   - The second peak cluster is between $35,000–$50,000.
 ![Claims_Cost_Distribution_by_Smoking_Status](images/Claims_Cost_Distribution_by_Smoking_Status.png) 
-  - Average BMI by Region
+- **Average BMI by Region**
   - Highest BMI Region: southeast (Mean: 33.36)
-  - Percentage of Smokers by Region
+- **Percentage of Smokers by Region**
   - Highest Smoker Region: southeast (25.0%)
 ![Avg BMI & Percentage of Smokers by Region](images/Avg_BMI_&_Percentage_of_Smokers_by_Region.png) 
 

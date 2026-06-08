@@ -193,7 +193,7 @@ Instructions for using the project:
 - How could this analysis inform decision-making?   -->
 - **Smoking and BMI combined are associated with the highest claims cost**
 - **Are smoking and BMI signals for increased billing or actual indicators of assocated illness?**
-- The southeast region has the highest claims cost, which is associated with the highest number df smnokers and obese people
+- The southeast region has the highest claims cost, which is associated with the highest number df smokers and obese people
 - Recommendations or next steps for further analysis  
 ---
 

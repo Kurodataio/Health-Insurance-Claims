@@ -139,8 +139,14 @@ Instructions for using the project:
   - Region is a not a significant determinant of claims cost.
   - The Southeast has the highest range of claims costs. It also has the highest outlier costs
   - The outliers can be associated with risk factors such as smoking and high BMI
-  - Does this suggest that the Southeast has more smokers and obese clients hence the higher claims costs
 ![Claims_Cost_by_Region](images/Claims_Cost_by_Region.png) 
+
+- **Average BMI by Region**
+  - Highest BMI Region: southeast (Mean: 33.36)
+- **Percentage of Smokers by Region**
+  - Highest Smoker Region: southeast (25.0%)
+- The plot of Average BMI and smokers confirms why the Southeast has the higher claims costs
+![Avg BMI & Percentage of Smokers by Region](images/Avg_BMI_&_Percentage_of_Smokers_by_Region.png) 
 
 
 - **Claims Cost Distribution by Smoking Status**
@@ -151,11 +157,6 @@ Instructions for using the project:
   - The first peak cluster is between $15,000–$25,000.
   - The second peak cluster is between $35,000–$50,000.
 ![Claims_Cost_Distribution_by_Smoking_Status](images/Claims_Cost_Distribution_by_Smoking_Status.png) 
-- **Average BMI by Region**
-  - Highest BMI Region: southeast (Mean: 33.36)
-- **Percentage of Smokers by Region**
-  - Highest Smoker Region: southeast (25.0%)
-![Avg BMI & Percentage of Smokers by Region](images/Avg_BMI_&_Percentage_of_Smokers_by_Region.png) 
 
 - **Correlation_Heatmap**
   - The positive correlation between smoker and claims cost is 0.79

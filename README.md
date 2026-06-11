@@ -179,6 +179,9 @@ Instructions for using the project:
 ![Distribution_of_Claims_Cost](images/Distribution_of_Claims_Cost.png) 
 
 - **Loss_Ratio_Distribution**
+  - The Loss Ratio (LR) represents the ratio of losses (claims paid) to premiums earned
+  - A loss ratio of 1.0 (or 100%) means the company is paying out exactly what it collects in premiums.
+  - 
 ![Loss_Ratio_Distribution](images/Loss_Ratio_Distribution.png) 
 
 - **Feature_Importance**

@@ -194,7 +194,7 @@ Instructions for using the project:
 - **Loss Ratio Distribution: Current vs Proposed Pricing**
     - The risk based pricing is a flattened curve and spreads the risk across the x-axis way past 60.0 and 80.0
     - This plot shows the proposed model heavily underprices a large segment of the portfolio.
-    - The current risk based pricing needs corrective changes
+    - The proposed risk based pricing needs corrective changes
 ![Loss Ratio Distribution: Current vs Proposed Pricing](images/Loss_Ratio_Distribution_Current_vs_Proposed_Pricing.png)
 
 <!-- ![title](images/image.png)  -->

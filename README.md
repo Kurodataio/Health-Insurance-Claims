@@ -191,6 +191,12 @@ Instructions for using the project:
   - Adjusting the slope coefficient to cover higher costs penalizes the lower claims with higher premiums
 ![Loss_Ratio_Distribution](images/Loss_Ratio_Distribution.png) 
 
+- **Loss Ratio Distribution: Current vs Proposed Pricing**
+    - The risk based pricing is a flattened curve and spreads the risk across the x-axis way past 60.0 and 80.0
+    - This plot shows the proposed model heavily underprices a large segment of the portfolio.
+    - The current risk based pricing needs corrective changes
+![Loss Ratio Distribution: Current vs Proposed Pricing](images/Loss_Ratio_Distribution_Current_vs_Proposed_Pricing.png)
+
 <!-- ![title](images/image.png)  -->
 <!-- ![title](images/image.png)  -->
 
@@ -206,7 +212,7 @@ Instructions for using the project:
 - Recommendations or next steps for further analysis  
 ---
 
-## Credits
+## Acknowledgements & Credits
 
 - **Dataset Source:** [Kaggle → Datasets](https://www.kaggle.com/datasets/mirichoi0218/insurance)  
 - **Google Gemini** [Link](https://gemini.google.com/app)  

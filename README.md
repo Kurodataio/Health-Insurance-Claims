@@ -117,6 +117,10 @@ Instructions for using the project:
   - This plot shows high outliers for non-smokers are within the typical claims cost for smokers
 ![Claims_Cost_by_Smoker_Status](images/Claims_Cost_by_Smoker_Status.png)
 
+- **Feature_Importance**
+- 
+![Feature_Importance](images/Feature_Importance.png) 
+
 - **Claims Cost by Dependents**
   - The average (median) claims cost for all groups is $8,000 and $11,000
   - 0 to 2 dependents: The median is around $8,500–$9,500
@@ -187,8 +191,6 @@ Instructions for using the project:
   - Adjusting the slope coefficient to cover higher costs penalizes the lower claims with higher premiums
 ![Loss_Ratio_Distribution](images/Loss_Ratio_Distribution.png) 
 
-- **Feature_Importance**
-![Feature_Importance](images/Feature_Importance.png) 
 <!-- ![title](images/image.png)  -->
 <!-- ![title](images/image.png)  -->
 

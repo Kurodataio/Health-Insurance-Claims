@@ -173,9 +173,9 @@ Instructions for using the project:
   - Most of the insurance claims are low to medium in costs
   - The distribution is bimodal, primary and secondary peaks
   - The two peaks suggest sub populations of claims cost
-  - Mode Claims Cost is $1639.56
-  - Median Claims Cost is $9382.03
-  - Mean Claims Cost is $13270.42
+  - Mode Claims Cost is **$1639.56**
+  - Median Claims Cost is **$9382.03**
+  - Mean Claims Cost is **$13270.42**
 ![Distribution_of_Claims_Cost](images/Distribution_of_Claims_Cost.png) 
 
 - **Loss_Ratio_Distribution**

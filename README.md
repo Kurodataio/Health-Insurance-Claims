@@ -180,8 +180,11 @@ Instructions for using the project:
 
 - **Loss_Ratio_Distribution**
   - The Loss Ratio (LR) represents the ratio of losses (claims paid) to premiums earned
+  - Loss Ratio (LR) = Total Losses (L) / Total Premium (P)
   - A loss ratio of 1.0 (or 100%) means the company is paying out exactly what it collects in premiums.
-  - 
+  - Most of the small and medium claims are profitable.
+  - The high claims costs are not profitable
+  - Adjusting the slope coefficient to cover higher costs penalizes the lower claims with higher premiums
 ![Loss_Ratio_Distribution](images/Loss_Ratio_Distribution.png) 
 
 - **Feature_Importance**

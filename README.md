@@ -210,6 +210,7 @@ Instructions for using the project:
 - **Are smoking and BMI signals for increased billing or actual indicators of assocated illness?**
 - The southeast region has the highest claims cost, which is associated with the highest number of smokers and obese people
 - Recommendations or next steps for further analysis  
+
 ---
 
 ## Acknowledgements & Credits

@@ -1,5 +1,5 @@
 # Health Insurance Claims
-Health Insurance Underwriting with Simulated Health Insurance Dataset
+Health Insurance Claims Analysis with Python and Jupyter Notebook, analyzing demographic and behavioural risk factors (Age, BMI, Smoking status) impacting medical insurance charges.
 
 [Notebook Link](https://github.com/Sodiq-Shodimu/nexygen-project/blob/main/health-insurance-claims.ipynb)  
 
@@ -22,7 +22,8 @@ Health Insurance Underwriting with Simulated Health Insurance Dataset
 ## Overview
 
 - The dataset was chosen to assess heath insurance uderwriting. 
--The objecive was to determine segmentation, risk scoring, data insights and  scenario testing
+- Python in Jupyter Notebook was used for the analysis.
+- The objecive was to determine segmentation, risk scoring, data insights and  scenario testing
 
 ---
 

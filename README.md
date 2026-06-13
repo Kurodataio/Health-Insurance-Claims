@@ -210,8 +210,8 @@ Instructions for using the project:
 - The Southeast region has the highest levels of smoking and obesity (high BMI) rates. Remediation could be targeted at this region as a priority.
 - The southeast region has the highest claims cost, which is associated with the highest number of smokers and obese people.
 - Further data and analysis is required to validated the surge in claims cost associated with smoking and BMI.
-  - What are the actual illnesses associated withhigh BMI and smoking?
-  - Are medical protocoles and procedures initiated based on BMI and smoking signals or the actual presence of disease?
+  - What are the actual illnesses associated with high BMI and smoking?
+  - Are medical protocols and procedures initiated based on BMI and smoking signals or the actual presence of disease?
 
 ---
 

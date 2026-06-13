@@ -30,6 +30,7 @@ Health Insurance Claims Analysis with Python and Jupyter Notebook, analyzing dem
 ## Dataset
 - The dataset is Medical Cost Personal Datasets from Kaggle
 - Size of the dataset is 1338 rows and 7 columns  
+- The analysis with this dataset is duplicated in Power PI and Tableau Desktop
 
 ---
 

@@ -21,9 +21,9 @@ Health Insurance Claims Analysis with Python and Jupyter Notebook, analyzing dem
 
 ## Overview
 
-- The dataset was chosen to assess heath insurance uderwriting. 
+- The dataset was chosen to assess heath insurance underwriting. 
 - Python in Jupyter Notebook was used for the analysis.
-- The objecive was to determine segmentation, risk scoring, data insights and  scenario testing
+- The objective was to determine segmentation, risk scoring, data insights and  scenario testing
 
 ---
 
